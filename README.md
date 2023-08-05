@@ -2,7 +2,6 @@
 
 ## Current Situation
 
-The Management 
 The project aims to examine the relation between annual report readability and the firm's performance, thereby testing the **Management Obfuscation Hypothesis**. 
 
 
