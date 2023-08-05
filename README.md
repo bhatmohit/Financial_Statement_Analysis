@@ -6,6 +6,7 @@ The project aims to examine the relation between annual report readability and t
 
 
 ## Goals Of Analysis
-- Perform **sentiment analysis** on MD&A data to evaluate performance of company  
+- Perform **sentiment analysis** on MD&A data to evaluate performance of company
+- Explore how firms perform over **following year** based on their current **cash flow** and **accrual ranking**
 - Develop **OLS** and **logistic regression** models to predict financial misstatements
 - Compare and evaluate the models using metrics such as **Precision, Sensitivity and AUROC**
