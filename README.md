@@ -1,9 +1,12 @@
 # Financial_Statement_Analysis
 
-## Current Situation
+## Project Basis
 
-The project aims to examine the relation between annual report readability and the firm's performance, thereby testing the **Management Obfuscation Hypothesis**. 
+The project aims to analyze financial statements and test the following hypotheses:
 
+1) Annual report readability and linguistic features are correlated to the firm performance
+2) The persistence of current earnings performance is decreasing in the magnitude of the accrual component of earnings and increasing in the magnitude of the cash flow component of earnings
+ 
 
 ## Goals Of Analysis
 - Perform **sentiment analysis** on MD&A data to evaluate performance of company
